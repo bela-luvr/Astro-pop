@@ -1,0 +1,16 @@
+{
+  "name": "Astro Pop",
+  "short_name": "Astro Pop",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#16083d",
+  "theme_color": "#6b35ff",
+  "icons": [
+    {
+      "src": "./astro-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
